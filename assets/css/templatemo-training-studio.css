@@ -609,7 +609,7 @@ header
     color: #fff;
   }
 
-  .header-area .main-nav .nav li:last-child a {
+  /* .header-area .main-nav .nav li:last-child a {
     background-color: #ffb303 !important;
   }
 
@@ -617,7 +617,7 @@ header
   .header-area .main-nav .nav li:last-child:hover a {
     background-color: #ffb303 !important;
     color: #fff !important;
-  }
+  } */
 
   .header-area.header-sticky .nav {
     margin-top: 80px !important;
@@ -640,9 +640,9 @@ header
     color: #232d39 !important;
   }
 
-  .header-area .main-nav .nav li:last-child a {
+  /* .header-area .main-nav .nav li:last-child a {
     color: #fff !important;
-  }
+  } */
 
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
